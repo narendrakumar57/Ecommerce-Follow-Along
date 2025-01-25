@@ -15,6 +15,7 @@ we'll create APIs for:
 - **User Authentication**: Allowing users to register and log in.
 - **Product Management**: Adding,updating, and retrivingg product data.
 -**Order Handling**: managing customer orders.
+
 ####3. Database Schema Design
 We'll learn how to design and organize data using MongoDB. A schema helps us define how the data is stored and related.
 
@@ -23,3 +24,7 @@ We'll learn how to design and organize data using MongoDB. A schema helps us def
 Authentication ensures only the right people can access certain features. For example:
 - Users need to log in to place orders or see their personal data.
 - It keeps the app secure by verifying users' identities.
+#### SECTION 2:
+Milestone 2:
+
+ - In this i create a react app and design the login page and style it Tailwindcss. It gives a wonderful Experience and i get some knowledge that how to work on a professional project.
