@@ -23,3 +23,11 @@ We'll learn how to design and organize data using MongoDB. A schema helps us def
 Authentication ensures only the right people can access certain features. For example:
 - Users need to log in to place orders or see their personal data.
 - It keeps the app secure by verifying users' identities.
+
+#### SECTION 2:
+> Milestone 2:
+- In this i create a react app and design the login page and style it Tailwindcss. It gives a wonderful Experience and i get some knowledge that how to work on a professional project.
+
+
+## Milestone 3: 
+Set up dedicated folders for organising backend code effectively. Initialized and configured a Node.js server to handle API requests. connected the apllication to MongoDB to store and manage data. Implemented basic error handling to ensure smooth server opration.
