@@ -15,6 +15,7 @@ we'll create APIs for:
 - **User Authentication**: Allowing users to register and log in.
 - **Product Management**: Adding,updating, and retrivingg product data.
 -**Order Handling**: managing customer orders.
+
 ####3. Database Schema Design
 We'll learn how to design and organize data using MongoDB. A schema helps us define how the data is stored and related.
 
@@ -31,3 +32,7 @@ Authentication ensures only the right people can access certain features. For ex
 
 ## Milestone 3: 
 Set up dedicated folders for organising backend code effectively. Initialized and configured a Node.js server to handle API requests. connected the apllication to MongoDB to store and manage data. Implemented basic error handling to ensure smooth server opration.
+
+## Milestone 4:
+
+Created a User Model to define how user data is structured in the database. Also developed a User Controller to manage user interactions, like adding or retrieving data. Additionally, configured Multer to handle file uploads, allowing users to store files such as images.
